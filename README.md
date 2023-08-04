@@ -32,7 +32,7 @@ To use the Red_Black Tree Visualizer, follow these steps:
 
  1) Download the project source code or clone the repository to your local machine.
 
- 2) Open the home.html file in a modern web browser that supports JavaScript.
+ 2) Open the index.html file in a modern web browser that supports JavaScript.
 
  3) On the web page, you will see a tree visualization area and control options.
 
